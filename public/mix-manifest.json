@@ -1,0 +1,11 @@
+{
+    "/js/laravel.app.js": "/js/laravel.app.js",
+    "/js/codebase.app.js": "/js/codebase.app.js",
+    "/js/custom.js": "/js/custom.js",
+    "/css/themes/flat.css": "/css/themes/flat.css",
+    "/css/themes/elegance.css": "/css/themes/elegance.css",
+    "/css/themes/earth.css": "/css/themes/earth.css",
+    "/css/themes/corporate.css": "/css/themes/corporate.css",
+    "/css/codebase.css": "/css/codebase.css",
+    "/css/themes/pulse.css": "/css/themes/pulse.css"
+}
